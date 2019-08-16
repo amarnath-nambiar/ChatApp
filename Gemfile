@@ -26,6 +26,7 @@ gem 'bourbon', '~> 5.0'
 gem 'bitters'
 gem 'clearance'
 gem 'dotenv-rails'
+gem 'twilio-ruby'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
