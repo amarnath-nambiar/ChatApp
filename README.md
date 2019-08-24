@@ -5,20 +5,18 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 2.6.0
 
-* System dependencies
+* System dependencies: Nil
 
-* Configuration
+* Configuration: Nil
 
-* Database creation
+* Database creation: rails db:create
 
-* Database initialization
+* Database initialization: rails db:migrate
 
-* How to run the test suite
+* How to run the test suite: Nil
 
-* Services (job queues, cache servers, search engines, etc.)
+* Services (job queues, cache servers, search engines, etc.): Nil
 
-* Deployment instructions
-
-* ...
+* Deployment instructions: Nil
