@@ -30,3 +30,5 @@ Things you may want to cover:
 
 * Deployment instructions: Nil
 
+Reference
+https://www.twilio.com/blog/build-chat-ruby-on-rails-applications
